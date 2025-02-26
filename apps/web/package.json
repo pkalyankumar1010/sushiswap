@@ -46,7 +46,7 @@
     "@sushiswap/telemetry": "workspace:*",
     "@sushiswap/ui": "workspace:*",
     "@tanstack/react-query": "5.62.8",
-    "@tanstack/react-table": "8.9.1",
+    "@tanstack/react-table": "8.20.6",
     "@tronweb3/tronwallet-abstract-adapter": "1.1.6",
     "@tronweb3/tronwallet-adapter-react-hooks": "1.1.7",
     "@tronweb3/tronwallet-adapter-react-ui": "1.1.8",
