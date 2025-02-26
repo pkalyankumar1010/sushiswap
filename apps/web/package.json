@@ -36,7 +36,7 @@
     "@radix-ui/react-visually-hidden": "^1.1.1",
     "@rainbow-me/rainbowkit": "2.2.2",
     "@rise-wallet/wallet-adapter": "0.1.2",
-    "@snapshot-labs/snapshot.js": "0.9.9",
+    "@snapshot-labs/snapshot.js": "0.12.46",
     "@sushiswap/graph-client": "workspace:*",
     "@sushiswap/hooks": "workspace:*",
     "@sushiswap/nextjs-config": "workspace:*",
